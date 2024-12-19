@@ -1,9 +1,9 @@
 ﻿#--------------------------------------------------------------------------|Variebels For Api
-API_ID =5015063                                                          #-|
-API_HASH = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'                           #-|
-BOT_TOKEN= '1234567899:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'              #-| 
-OWNER= 2133923261                                                        #-|
-OWNER_USERNAME='YOUR_TELEGRAM_USERNAME'                                  #-|
+API_ID = 10515033                                                          #-|
+API_HASH = '22ae9e38776739612be6cbf2473fcf38'                           #-|
+BOT_TOKEN= '8015026180:AAEayOYCza6EuOlG8KXdk1khy_P4ntxq_Ck'              #-| 
+OWNER=     5668163693                                                    #-|
+OWNER_USERNAME='https://t.me/yoyoitsmeshadow'                                  #-|
 #--------------------------------------------------------------------------| Robot Variebels
 Banners_Channel='@CHANNEL WICH YOUR BANNERS SENDED'
 #-----------------------------------------------------------------------------------------------------
@@ -20,7 +20,7 @@ PcVersion = ['Windows 7', 'Windows 8', 'Windows 8.1', 'Windows 8.2', 'Windows 10
 #-----------------------------------------------------------------------------------------------------
 #-----------------------------------------------------------------------------------------------------
 API=[['XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',1111111111],['XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',11111111111],['XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',1111111111]]
-BOT_USERNAME='YOUR BOT USERNAME'
+BOT_USERNAME='@tommyshelbbot'
 Photos_Path=r'/root/Advertiser/Data/Fake_Details/Photos'
 Fake_Details_Path=r'/root/Advertiser/Data/Fake_Details'
 Sessions=r'/root/Advertiser/Sessions'
