@@ -2,3 +2,4 @@ requests
 pyrogram 
 tabulate
 bs4
+Classes
